@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+**/.DS_Store
+desktop.ini
+.lnk
+
+# IDE Settings
+.vscode/cspell.json
+.vscode/settings.json
+
+# Other local settings
+.cspell.json
+.claude/*
+!.claude/CLAUDE.md
+.markdownlint.jsonc
